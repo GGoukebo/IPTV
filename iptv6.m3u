@@ -152,7 +152,7 @@ https://stream1.freetv.fun/channel-5-1.m3u8
 #EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 8 HD.png" group-title="港澳台",Channel 8 HD
 https://stream1.freetv.fun/channel-8-5.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="港澳台",tvN
-https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.com/tv/千禧經典台.png" group-title="港澳台",千禧經典台
 https://stream1.freetv.fun/tvbqian-xi-jing-dian-1.ctv
 #EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="港澳台",日本全天新聞
@@ -598,7 +598,7 @@ https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="国际频道",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+https://stream1.freetv.fun/a-li-lang-dian-shi-3.m3u8
 #EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT-World.png" group-title="国际频道",TRT World 
