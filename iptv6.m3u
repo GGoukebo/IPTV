@@ -40,11 +40,11 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?chan
 #EXTINF:-1 tvg-name="中国教育4" tvg-id="中国教育4" tvg-logo="https://epg.112114.xyz/logo/中国教育4.png" group-title="央视频道", 中国教育4
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道", CHC动作电影
-http://[2409:8087:3c02:21:0:1:0:1004]:6610/shandong_cabletv.live.zte.com////CHANNEL00002030/1000/_346537075.ts?prog_time=20241127052935&zduration=5&zte_bandwidth=1000&ts_min=1&neighbor_ip=2409:8087:3c02:0021:0000:0001:0000:1018&IASHttpSessionId=OTT382981720241127053043045601&nb_type=1&ispcode=3&ztecid=CHANNEL00002030
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道", CHC家庭影院
-http://[2409:8087:3c02:21:0:1:0:1006]:6610/shandong_cabletv.live.zte.com////CHANNEL00002028/1000/_346537070.ts?prog_time=20241127052910&zduration=5&zte_bandwidth=1000&ts_min=1&ispcode=3&IASHttpSessionId=OTT190222220241127053010026652&ztecid=CHANNEL00002028
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道", CHC影迷电影
-http://[2409:8087:3c02:21:0:1:0:1008]:6610/shandong_cabletv.live.zte.com////CHANNEL00002029/1000.m3u8?IASHttpSessionId=OTT167750220241127052727023165&zte_bandwidth=1000&bandwidth=9470800&ispcode=3&timeformat=local&channel=CHANNEL00002029&m3u8_level=2&ztecid=CHANNEL00002029
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
 #卫视频道
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道", 安徽卫视
