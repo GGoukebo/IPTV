@@ -172,13 +172,13 @@ https://stream1.freetv.fun/popc-1.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114164852936879_83.png" group-title="港澳台",KIX
 https://stream1.freetv.fun/kix-1.m3u8
 #EXTINF:-1 tvg-name="viutv" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png" group-title="港澳台",viuTV
-https://stream1.freetv.fun/viutv-3.m3u8
+https://stream1.freetv.fun/viutv-9.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港澳台",翡翠台
 https://stream1.freetv.fun/fei-cui-4.ctv
 #EXTINF:-1 tvg-name="MyTV Super" tvg-logo="https://epg.pw/media/images/channel/2024/01/20/large/20240120223253342117_22.png" group-title="港澳台",MyTV Super
 https://stream1.freetv.fun/mytv-super-2.m3u8
-#EXTINF:-1 tvg-name="now爆谷台" tvg-logo="https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png" group-title="電影",now爆谷台
-https://stream1.freetv.fun/nowbao-gu-2.m3u8
+#EXTINF:-1 tvg-name="now爆谷台" tvg-logo="https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png" group-title="港澳台",now爆谷台
+http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
