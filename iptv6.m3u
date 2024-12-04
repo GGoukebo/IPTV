@@ -142,7 +142,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 
 #港澳台
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",鳳凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
+https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",鳳凰資訊
 https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",鳳凰香港
