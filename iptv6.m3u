@@ -160,13 +160,13 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png" group-title="港澳台",龙华偶像台
 https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://live.fanmingming.com/tv/龙华日韩台.png" group-title="港澳台",龍華日韓台
-https://stream1.freetv.fun/long-hua-ri-han-4.m3u8
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170642383978_17.png" group-title="港澳台",龍華經典台
 https://stream1.freetv.fun/long-hua-jing-dian-1.ctv
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="港澳台",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB 星河台
-https://stream1.freetv.fun/tvbxing-he--ch305-1.m3u8
+https://stream1.freetv.fun/tvbxing-he-5.ctv
 #EXTINF:-1 tvg-name="Popc" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813015310724171_63.png" group-title="港澳台",Popc
 https://stream1.freetv.fun/popc-1.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114164852936879_83.png" group-title="港澳台",KIX
@@ -178,8 +178,8 @@ https://stream1.freetv.fun/fei-cui-4.ctv
 #EXTINF:-1 tvg-name="MyTV Super" tvg-logo="https://epg.pw/media/images/channel/2024/01/20/large/20240120223253342117_22.png" group-title="港澳台",MyTV Super
 https://stream1.freetv.fun/mytv-super-2.m3u8
 #EXTINF:-1 tvg-name="now爆谷台" tvg-logo="https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png" group-title="港澳台",now爆谷台
-http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-#http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+#http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
