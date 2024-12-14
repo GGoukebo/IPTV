@@ -40,11 +40,11 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?chan
 #EXTINF:-1 tvg-name="中国教育4" tvg-id="中国教育4" tvg-logo="https://epg.112114.xyz/logo/中国教育4.png" group-title="央视频道", 中国教育4
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道", CHC动作电影
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道", CHC家庭影院
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+https://tv.iill.top/migu/jtyy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道", CHC影迷电影
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+
 
 #卫视频道
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道", 安徽卫视
@@ -144,7 +144,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",鳳凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",鳳凰資訊
-https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
+https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",鳳凰香港
 https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="港澳台",Channel 5 HD
@@ -153,8 +153,6 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="港澳台",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png" group-title="港澳台",千禧經典台
-https://stream1.freetv.fun/tvbqian-xi-jing-dian-1.ctv
 #EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="港澳台",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png" group-title="港澳台",龙华偶像台
@@ -165,16 +163,12 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 https://stream1.freetv.fun/long-hua-jing-dian-1.ctv
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="港澳台",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB 星河台
-https://stream1.freetv.fun/tvbxing-he-5.ctv
 #EXTINF:-1 tvg-name="Popc" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813015310724171_63.png" group-title="港澳台",Popc
 https://stream1.freetv.fun/popc-1.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114164852936879_83.png" group-title="港澳台",KIX
 https://stream1.freetv.fun/kix-1.m3u8
 #EXTINF:-1 tvg-name="viutv" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193925517675_19.png" group-title="港澳台",viuTV
 https://stream1.freetv.fun/viutv-3.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港澳台",翡翠台
-https://stream1.freetv.fun/fei-cui-4.ctv
 #EXTINF:-1 tvg-name="MyTV Super" tvg-logo="https://epg.pw/media/images/channel/2024/01/20/large/20240120223253342117_22.png" group-title="港澳台",MyTV Super
 https://stream1.freetv.fun/mytv-super-2.m3u8
 #EXTINF:-1 tvg-name="now爆谷台" tvg-logo="https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png" group-title="港澳台",now爆谷台
