@@ -44,6 +44,7 @@ http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道", CHC家庭影院
 https://tv.iill.top/migu/jtyy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道", CHC影迷电影
+https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8
 
 
 #卫视频道
