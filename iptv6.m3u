@@ -39,13 +39,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育4" tvg-id="中国教育4" tvg-logo="https://epg.112114.xyz/logo/中国教育4.png" group-title="央视频道", 中国教育4
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道", CHC动作电影
-https://stream1.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道", CHC家庭影院
-https://stream1.freetv.fun/71f06953d8268da88185671f0ad549396ea57fc4dd5c48bdfb0b5d59068202d5.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道", CHC影迷电影
-https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8
-
 
 #卫视频道
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道", 安徽卫视
@@ -611,4 +604,6 @@ https://stream1.freetv.fun/a-li-lang-dian-shi-3.m3u8
 #EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 group-title="国际频道",KBS world
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+https://stream1.freetv.fun/kbs-world-14.m3u8
+#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
