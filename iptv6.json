@@ -1,1676 +1,1298 @@
 [
-    {
-        "name": "CCTV1",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV1",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV2",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV2",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV3",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV3",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV4",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV4",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV5",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV5",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV5+",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV5+",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV6",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV6",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV7",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV7",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226432/index.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV8",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV8",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV9",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV9",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV10",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV10",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000016738/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV11",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV11",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV12",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV12",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032494/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV13",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV13",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV14",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV14",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV15",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV15",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/1.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV16",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV16",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8"
-        ]
-    },
-    {
-        "name": "CCTV17",
-        "group": "央视频道",
-        "logo": "",
-        "title": "CCTV17",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "央视频道",
-        "logo": "",
-        "title": "中国教育1",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3"
-        ]
-    },
-    {
-        "name": "",
-        "group": "央视频道",
-        "logo": "",
-        "title": "中国教育4",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3"
-        ]
-    },
-    {
-        "name": "安徽卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "安徽卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000023002/1.m3u8"
-        ]
-    },
-    {
-        "name": "北京卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "北京卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8"
-        ]
-    },
-    {
-        "name": "兵团卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "兵团卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266005/1.m3u8"
-        ]
-    },
-    {
-        "name": "东方卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "东方卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8"
-        ]
-    },
-    {
-        "name": "东南卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "东南卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010584/1.m3u8"
-        ]
-    },
-    {
-        "name": "甘肃卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "甘肃卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031121/1.m3u8"
-        ]
-    },
-    {
-        "name": "广东卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "广东卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8"
-        ]
-    },
-    {
-        "name": "广西卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "广西卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031118/1.m3u8"
-        ]
-    },
-    {
-        "name": "贵州卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "贵州卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8"
-        ]
-    },
-    {
-        "name": "海南卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "海南卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/index.m3u8"
-        ]
-    },
-    {
-        "name": "河北卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "河北卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040016/1.m3u8"
-        ]
-    },
-    {
-        "name": "河南卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "河南卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031119/1.m3u8"
-        ]
-    },
-    {
-        "name": "湖北卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "湖北卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000010355/1.m3u8"
-        ]
-    },
-    {
-        "name": "湖南卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "湖南卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8"
-        ]
-    },
-    {
-        "name": "吉林卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "吉林卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/6042486520432105075/1.m3u8"
-        ]
-    },
-    {
-        "name": "江苏卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "江苏卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018509/1.m3u8"
-        ]
-    },
-    {
-        "name": "江西卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "江西卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/1.m3u8"
-        ]
-    },
-    {
-        "name": "康巴卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "康巴卫视",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8"
-        ]
-    },
-    {
-        "name": "辽宁卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "辽宁卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011671/1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "卫视",
-        "logo": "",
-        "title": "内蒙卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8"
-        ]
-    },
-    {
-        "name": "宁夏卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "宁夏卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040022/1.m3u8"
-        ]
-    },
-    {
-        "name": "农林卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "农林卫视",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8"
-        ]
-    },
-    {
-        "name": "青海卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "青海卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8"
-        ]
-    },
-    {
-        "name": "三沙卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "三沙卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
-        ]
-    },
-    {
-        "name": "厦门卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "厦门卫视",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225689/index.m3u8"
-        ]
-    },
-    {
-        "name": "山东卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "山东卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000020424/1.m3u8"
-        ]
-    },
-    {
-        "name": "山西卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "山西卫视",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226543/index.m3u8"
-        ]
-    },
-    {
-        "name": "陕西卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "陕西卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040017/1.m3u8"
-        ]
-    },
-    {
-        "name": "深圳卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "深圳卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007410/1.m3u8"
-        ]
-    },
-    {
-        "name": "四川卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "四川卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006119/1.m3u8"
-        ]
-    },
-    {
-        "name": "天津卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "天津卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006827/1.m3u8"
-        ]
-    },
-    {
-        "name": "西藏卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "西藏卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8"
-        ]
-    },
-    {
-        "name": "新疆卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "新疆卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8"
-        ]
-    },
-    {
-        "name": "延边卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "延边卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8"
-        ]
-    },
-    {
-        "name": "云南卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "云南卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000024694/1.m3u8"
-        ]
-    },
-    {
-        "name": "浙江卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "浙江卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007275/1.m3u8"
-        ]
-    },
-    {
-        "name": "重庆卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "重庆卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8"
-        ]
-    },
-    {
-        "name": "安多卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "安多卫视",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226405/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "卫视",
-        "logo": "",
-        "title": "龙江卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8"
-        ]
-    },
-    {
-        "name": "东方卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "东方卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8"
-        ]
-    },
-    {
-        "name": "大湾区卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "大湾区卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8"
-        ]
-    },
-    {
-        "name": "黑龙江卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "黑龙江卫视",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8"
-        ]
-    },
-    {
-        "name": "内蒙古卫视",
-        "group": "卫视",
-        "logo": "",
-        "title": "内蒙古卫视",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225664/index.m3u8"
-        ]
-    },
-    {
-        "name": "中国教育1台",
-        "group": "其他",
-        "logo": "",
-        "title": "中国教育1台",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8"
-        ]
-    },
-    {
-        "name": "中国教育2台",
-        "group": "其他",
-        "logo": "",
-        "title": "中国教育2台",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8"
-        ]
-    },
-    {
-        "name": "中国教育4台",
-        "group": "其他",
-        "logo": "",
-        "title": "中国教育4台",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "鳳凰中文",
-        "uris": [
-            "https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "鳳凰資訊",
-        "uris": [
-            "https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "鳳凰香港",
-        "uris": [
-            "https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "Channel 5 HD",
-        "uris": [
-            "http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "Channel 8 HD",
-        "uris": [
-            "http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8"
-        ]
-    },
-    {
-        "name": "tvN",
-        "group": "港澳台",
-        "logo": "",
-        "title": "tvN",
-        "uris": [
-            "http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "日本全天新聞",
-        "uris": [
-            "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "龙华偶像台",
-        "uris": [
-            "https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "龍華日韓台",
-        "uris": [
-            "http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "龍華經典台",
-        "uris": [
-            "https://stream1.freetv.fun/long-hua-jing-dian-1.ctv"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "龍華電影台",
-        "uris": [
-            "http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "Popc",
-        "uris": [
-            "https://stream1.freetv.fun/popc-1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "KIX",
-        "uris": [
-            "https://stream1.freetv.fun/kix-1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "viuTV",
-        "uris": [
-            "https://stream1.freetv.fun/viutv-3.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "MyTV Super",
-        "uris": [
-            "https://stream1.freetv.fun/mytv-super-2.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "now爆谷台",
-        "uris": [
-            "http://205.185.123.236:8899/1/baogutai/baogu.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "港澳台",
-        "logo": "",
-        "title": "HKS香港卫视",
-        "uris": [
-            "https://stream1.freetv.fun/xiang-gang-wei-shi-6.m3u8"
-        ]
-    },
-    {
-        "name": "卡酷少儿",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "卡酷少儿",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8"
-        ]
-    },
-    {
-        "name": "金鹰卡通",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "金鹰卡通",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8"
-        ]
-    },
-    {
-        "name": "优漫卡通",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "优漫卡通",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8"
-        ]
-    },
-    {
-        "name": "哈哈炫动",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "哈哈炫动",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8"
-        ]
-    },
-    {
-        "name": "嘉佳卡通",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "嘉佳卡通",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "BesTV青春动漫",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.146:5140"
-        ]
-    },
-    {
-        "name": "黑莓动画",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "黑莓动画",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8"
-        ]
-    },
-    {
-        "name": "黑莓电影",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "黑莓电影",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8"
-        ]
-    },
-    {
-        "name": "动漫秀场",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "动漫秀场",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "爱动漫",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "浙江少儿",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "浙江少儿",
-        "uris": [
-            "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "黑龙江少儿",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
-        ]
-    },
-    {
-        "name": "海南少儿",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "海南少儿",
-        "uris": [
-            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "七龙珠",
-        "uris": [
-            "http://diyp.zxxoo.work/huya/11601966"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "灌篮高手",
-        "uris": [
-            "http://jiaojirentv.top/2020/yy.php?id=1382735626"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "哆啦A梦",
-        "uris": [
-            "http://120.77.28.4:8648/huya.php?id=11601963"
-        ]
-    },
-    {
-        "name": "",
-        "group": "少儿动画",
-        "logo": "",
-        "title": "猫和老鼠",
-        "uris": [
-            "http://120.77.28.4:8648/huya.php?id=11352879"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱院线",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱科幻",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱浪漫",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱喜剧",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱悬疑",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱赛车",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱体育",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱奇谈",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱玩具",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱旅行",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱幼教",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱谍战",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱历史",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱科学",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "IHOT",
-        "logo": "",
-        "title": "iHOT爱动漫",
-        "uris": [
-            "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "古装剧场",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "动作电影",
-        "uris": [
-            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "农业致富",
-        "uris": [
-            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "超级体育",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "超级电影",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "超级电视剧",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "东北热剧",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "海外剧场",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "中国功夫",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "军旅剧场",
-        "uris": [
-            "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "惊悚悬疑",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "爱情喜剧",
-        "uris": [
-            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "潮妈辣婆",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "精品体育",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "精品纪录",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "家庭剧场",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "精品大剧",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000100/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "军事评论",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "明星大片",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "欢乐剧场",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "精品萌宠",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "超级综艺",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "金牌综艺",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "炫舞未来",
-        "uris": [
-            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "武搏世界",
-        "uris": [
-            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "NEWTV",
-        "logo": "",
-        "title": "怡伴健康",
-        "uris": [
-            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1983年春晚",
-        "uris": [
-            "http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1984年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1985年春晚",
-        "uris": [
-            "http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1986年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1987年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1988年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1989年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1992年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1993年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1994年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1995年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1996年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1997年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1998年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "1999年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2000年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2001年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2002年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2003年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2004年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2005年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2006年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2007年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2008年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2009年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2010年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2011年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2012年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2013年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2014年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2015年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2016年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2017年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2018年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2019年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2020年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2021年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2022年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2023年春晚",
-        "uris": [
-            "https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "历年春晚",
-        "logo": "",
-        "title": "2024年春晚",
-        "uris": [
-            "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "国际频道",
-        "logo": "",
-        "title": "KBS 2",
-        "uris": [
-            "https://tv.iill.top/kbs/12&p=0"
-        ]
-    },
-    {
-        "name": "",
-        "group": "国际频道",
-        "logo": "",
-        "title": "TJB",
-        "uris": [
-            "http://1.245.74.5:1935/live/tv/.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "国际频道",
-        "logo": "",
-        "title": "Arirang",
-        "uris": [
-            "https://stream1.freetv.fun/a-li-lang-dian-shi-3.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "国际频道",
-        "logo": "",
-        "title": "日本全天新闻",
-        "uris": [
-            "https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8"
-        ]
-    },
-    {
-        "name": "",
-        "group": "国际频道",
-        "logo": "",
-        "title": "KBS world",
-        "uris": [
-            "https://stream1.freetv.fun/kbs-world-14.m3u8"
-        ]
-    }
+  {
+    "name": "CCTV1",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png",
+    "title": "CCTV1",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8"
+  },
+  {
+    "name": "CCTV2",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png",
+    "title": "CCTV2",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8"
+  },
+  {
+    "name": "CCTV3",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png",
+    "title": "CCTV3",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8"
+  },
+  {
+    "name": "CCTV4",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png",
+    "title": "CCTV4",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8"
+  },
+  {
+    "name": "CCTV5",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png",
+    "title": "CCTV5",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8"
+  },
+  {
+    "name": "CCTV5+",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png",
+    "title": "CCTV5+",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8"
+  },
+  {
+    "name": "CCTV6",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png",
+    "title": "CCTV6",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/1.m3u8"
+  },
+  {
+    "name": "CCTV7",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091241522711_42.png",
+    "title": "CCTV7",
+    "uris": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226432/index.m3u8"
+  },
+  {
+    "name": "CCTV8",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png",
+    "title": "CCTV8",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8"
+  },
+  {
+    "name": "CCTV9",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png",
+    "title": "CCTV9",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028286/1.m3u8"
+  },
+  {
+    "name": "CCTV10",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png",
+    "title": "CCTV10",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000016738/1.m3u8"
+  },
+  {
+    "name": "CCTV11",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091841489866_26.png",
+    "title": "CCTV11",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/1.m3u8"
+  },
+  {
+    "name": "CCTV12",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091755215949_32.png",
+    "title": "CCTV12",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032494/1.m3u8"
+  },
+  {
+    "name": "CCTV13",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png",
+    "title": "CCTV13",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/1.m3u8"
+  },
+  {
+    "name": "CCTV14",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png",
+    "title": "CCTV14",
+    "uris": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8"
+  },
+  {
+    "name": "CCTV15",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png",
+    "title": "CCTV15",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/1.m3u8"
+  },
+  {
+    "name": "CCTV16",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2022/12/06/large/20221206011409534910_94.jpg",
+    "title": "CCTV16",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8"
+  },
+  {
+    "name": "CCTV17",
+    "group": "央视频道",
+    "logo": "https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg",
+    "title": "CCTV17",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8"
+  },
+  {
+    "name": "中国教育1",
+    "group": "央视频道",
+    "logo": "",
+    "title": "中国教育1",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3"
+  },
+  {
+    "name": "中国教育4",
+    "group": "央视频道",
+    "logo": "",
+    "title": "中国教育4",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3"
+  },
+  {
+    "name": "安徽卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/12/06/large/20221206011039981918_19.jpg",
+    "title": "安徽卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000023002/1.m3u8"
+  },
+  {
+    "name": "北京卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/10/29/large/20241029101351559578_45.png",
+    "title": "北京卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8"
+  },
+  {
+    "name": "兵团卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531161153317523_67.jpg",
+    "title": "兵团卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266005/1.m3u8"
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg",
+    "title": "东方卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8"
+  },
+  {
+    "name": "东南卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg",
+    "title": "东南卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010584/1.m3u8"
+  },
+  {
+    "name": "甘肃卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg",
+    "title": "甘肃卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031121/1.m3u8"
+  },
+  {
+    "name": "广东卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png",
+    "title": "广东卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8"
+  },
+  {
+    "name": "广西卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg",
+    "title": "广西卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031118/1.m3u8"
+  },
+  {
+    "name": "贵州卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531144236171971_20.jpg",
+    "title": "贵州卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8"
+  },
+  {
+    "name": "海南卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2021/09/13/large/20210913004059839717_73.png",
+    "title": "海南卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/index.m3u8"
+  },
+  {
+    "name": "河北卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531145616881844_72.jpg",
+    "title": "河北卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040016/1.m3u8"
+  },
+  {
+    "name": "河南卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg",
+    "title": "河南卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031119/1.m3u8"
+  },
+  {
+    "name": "湖北卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2017/01/08/large/20170108220858481970_23.jpg",
+    "title": "湖北卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000010355/1.m3u8"
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png",
+    "title": "湖南卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8"
+  },
+  {
+    "name": "吉林卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728163659540434_96.png",
+    "title": "吉林卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/6042486520432105075/1.m3u8"
+  },
+  {
+    "name": "江苏卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg",
+    "title": "江苏卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018509/1.m3u8"
+  },
+  {
+    "name": "江西卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg",
+    "title": "江西卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/1.m3u8"
+  },
+  {
+    "name": "康巴卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220546451462_40.jpg",
+    "title": "康巴卫视",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8"
+  },
+  {
+    "name": "辽宁卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531155536893321_81.jpg",
+    "title": "辽宁卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011671/1.m3u8"
+  },
+  {
+    "name": "内蒙古卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg",
+    "title": "内蒙卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8"
+  },
+  {
+    "name": "宁夏卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531153504056322_25.jpg",
+    "title": "宁夏卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040022/1.m3u8"
+  },
+  {
+    "name": "农林卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/01/15/large/20220115214129172948_47.png",
+    "title": "农林卫视",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8"
+  },
+  {
+    "name": "青海卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531153842547224_70.jpg",
+    "title": "青海卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8"
+  },
+  {
+    "name": "三沙卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/14/large/20220514162237808392_17.jpg",
+    "title": "三沙卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
+  },
+  {
+    "name": "厦门卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/04/27/large/20220427145557789544_92.jpg",
+    "title": "厦门卫视",
+    "uris": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225689/index.m3u8"
+  },
+  {
+    "name": "山东卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/12/06/large/20221206010643232132_38.jpg",
+    "title": "山东卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000020424/1.m3u8"
+  },
+  {
+    "name": "山西卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2023/08/04/large/20230804221555254122_47.jpg",
+    "title": "山西卫视",
+    "uris": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226543/index.m3u8"
+  },
+  {
+    "name": "陕西卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531150903888489_91.jpg",
+    "title": "陕西卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040017/1.m3u8"
+  },
+  {
+    "name": "深圳卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png",
+    "title": "深圳卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007410/1.m3u8"
+  },
+  {
+    "name": "四川卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/28/large/20220528220452110808_30.jpg",
+    "title": "四川卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006119/1.m3u8"
+  },
+  {
+    "name": "天津卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg",
+    "title": "天津卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006827/1.m3u8"
+  },
+  {
+    "name": "西藏卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531231110733151_44.jpg",
+    "title": "西藏卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8"
+  },
+  {
+    "name": "新疆卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg",
+    "title": "新疆卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8"
+  },
+  {
+    "name": "延边卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531161239615102_64.jpg",
+    "title": "延边卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8"
+  },
+  {
+    "name": "云南卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531145024469645_82.jpg",
+    "title": "云南卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000024694/1.m3u8"
+  },
+  {
+    "name": "浙江卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png",
+    "title": "浙江卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007275/1.m3u8"
+  },
+  {
+    "name": "重庆卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/03/11/large/20240311114110024425_46.png",
+    "title": "重庆卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8"
+  },
+  {
+    "name": "安多卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/01/15/large/20220115214146158986_19.png",
+    "title": "安多卫视",
+    "uris": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226405/index.m3u8"
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg",
+    "title": "东方卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8"
+  },
+  {
+    "name": "大湾区卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png",
+    "title": "大湾区卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8"
+  },
+  {
+    "name": "黑龙江卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531154335673922_21.jpg",
+    "title": "黑龙江卫视",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8"
+  },
+  {
+    "name": "内蒙古卫视",
+    "group": "卫视",
+    "logo": "https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg",
+    "title": "内蒙古卫视",
+    "uris": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225664/index.m3u8"
+  },
+  {
+    "name": "中国教育1台",
+    "group": "其他",
+    "logo": "",
+    "title": "中国教育1台",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8"
+  },
+  {
+    "name": "中国教育2台",
+    "group": "其他",
+    "logo": "",
+    "title": "中国教育2台",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8"
+  },
+  {
+    "name": "中国教育4台",
+    "group": "其他",
+    "logo": "",
+    "title": "中国教育4台",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8"
+  },
+  {
+    "name": "鳳凰卫视中文",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png",
+    "title": "鳳凰中文",
+    "uris": "https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8"
+  },
+  {
+    "name": "鳳凰資訊HD",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",
+    "title": "鳳凰資訊",
+    "uris": "https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8"
+  },
+  {
+    "name": "鳳凰香港",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",
+    "title": "鳳凰香港",
+    "uris": "https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8"
+  },
+  {
+    "name": "Channel 5",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png",
+    "title": "Channel 5 HD",
+    "uris": "http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8"
+  },
+  {
+    "name": "Channel 8",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png",
+    "title": "Channel 8 HD",
+    "uris": "http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8"
+  },
+  {
+    "name": "tvN",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2022/12/20/large/20221220162311139654_32.jpg",
+    "title": "tvN",
+    "uris": "http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8"
+  },
+  {
+    "name": "NTV News 24",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg",
+    "title": "日本全天新聞",
+    "uris": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"
+  },
+  {
+    "name": "龍華偶像",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png",
+    "title": "龙华偶像台",
+    "uris": "https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv"
+  },
+  {
+    "name": "龍華日韓",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/11/large/20230711230359148592_68.jpg",
+    "title": "龍華日韓台",
+    "uris": "http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8"
+  },
+  {
+    "name": "龍華經典",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724170642383978_17.png",
+    "title": "龍華經典台",
+    "uris": "https://stream1.freetv.fun/long-hua-jing-dian-1.ctv"
+  },
+  {
+    "name": "龍華電影",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png",
+    "title": "龍華電影台",
+    "uris": "http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8"
+  },
+  {
+    "name": "Popc",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813015310724171_63.png",
+    "title": "Popc",
+    "uris": "https://stream1.freetv.fun/popc-1.m3u8"
+  },
+  {
+    "name": "KIX",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/img/logo/kix_1.jpg",
+    "title": "KIX",
+    "uris": "https://stream1.freetv.fun/kix-1.m3u8"
+  },
+  {
+    "name": "ViuTV HD",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",
+    "title": "viuTV",
+    "uris": "https://stream1.freetv.fun/viutv-3.m3u8"
+  },
+  {
+    "name": "MyTV Super",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2024/01/20/large/20240120223253342117_22.png",
+    "title": "MyTV Super",
+    "uris": "https://stream1.freetv.fun/mytv-super-2.m3u8"
+  },
+  {
+    "name": "now爆谷台",
+    "group": "港澳台",
+    "logo": "https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png",
+    "title": "now爆谷台",
+    "uris": "http://205.185.123.236:8899/1/baogutai/baogu.m3u8"
+  },
+  {
+    "name": "HKS香港卫视",
+    "group": "港澳台",
+    "logo": "",
+    "title": "HKS香港卫视",
+    "uris": "https://stream1.freetv.fun/xiang-gang-wei-shi-6.m3u8"
+  },
+  {
+    "name": "卡酷少儿",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "卡酷少儿",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8"
+  },
+  {
+    "name": "金鹰卡通",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "金鹰卡通",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8"
+  },
+  {
+    "name": "优漫卡通",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "优漫卡通",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8"
+  },
+  {
+    "name": "哈哈炫动",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "哈哈炫动",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8"
+  },
+  {
+    "name": "嘉佳卡通",
+    "group": "少儿动画",
+    "logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114130936768099_46.png",
+    "title": "嘉佳卡通",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8"
+  },
+  {
+    "name": "BesTV青春动漫",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "BesTV青春动漫",
+    "uris": "http://wouu.net:9977/udp/239.93.0.146:5140"
+  },
+  {
+    "name": "黑莓动画",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "黑莓动画",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8"
+  },
+  {
+    "name": "黑莓电影",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "黑莓电影",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8"
+  },
+  {
+    "name": "动漫秀场",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "动漫秀场",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
+  },
+  {
+    "name": "爱动漫",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "爱动漫",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "浙江少儿",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "浙江少儿",
+    "uris": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+  },
+  {
+    "name": "黑龙江少儿",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "黑龙江少儿",
+    "uris": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
+  },
+  {
+    "name": "海南少儿",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "海南少儿",
+    "uris": "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8"
+  },
+  {
+    "name": "七龙珠",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "七龙珠",
+    "uris": "http://diyp.zxxoo.work/huya/11601966"
+  },
+  {
+    "name": "灌篮高手",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "灌篮高手",
+    "uris": "http://jiaojirentv.top/2020/yy.php?id=1382735626"
+  },
+  {
+    "name": "哆啦A梦",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "哆啦A梦",
+    "uris": "http://120.77.28.4:8648/huya.php?id=11601963"
+  },
+  {
+    "name": "猫和老鼠",
+    "group": "少儿动画",
+    "logo": "",
+    "title": "猫和老鼠",
+    "uris": "http://120.77.28.4:8648/huya.php?id=11352879"
+  },
+  {
+    "name": "iHOT爱院线",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱院线",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱科幻",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱科幻",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱浪漫",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱浪漫",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱喜剧",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱喜剧",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱悬疑",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱悬疑",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱赛车",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱赛车",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱体育",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱体育",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱奇谈",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱奇谈",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱玩具",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱玩具",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱旅行",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱旅行",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱幼教",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱幼教",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱谍战",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱谍战",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱历史",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱历史",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱科学",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱科学",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "iHOT爱动漫",
+    "group": "IHOT",
+    "logo": "",
+    "title": "iHOT爱动漫",
+    "uris": "http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281"
+  },
+  {
+    "name": "古装剧场",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "古装剧场",
+    "uris": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8"
+  },
+  {
+    "name": "动作电影",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "动作电影",
+    "uris": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
+  },
+  {
+    "name": "农业致富",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "农业致富",
+    "uris": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8"
+  },
+  {
+    "name": "超级体育",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "超级体育",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+  },
+  {
+    "name": "超级电影",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "超级电影",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+  },
+  {
+    "name": "超级电视剧",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "超级电视剧",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+  },
+  {
+    "name": "东北热剧",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "东北热剧",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+  },
+  {
+    "name": "海外剧场",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "海外剧场",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8"
+  },
+  {
+    "name": "中国功夫",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "中国功夫",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8"
+  },
+  {
+    "name": "军旅剧场",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "军旅剧场",
+    "uris": "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+  },
+  {
+    "name": "惊悚悬疑",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "惊悚悬疑",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8"
+  },
+  {
+    "name": "爱情喜剧",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "爱情喜剧",
+    "uris": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8"
+  },
+  {
+    "name": "潮妈辣婆",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "潮妈辣婆",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8"
+  },
+  {
+    "name": "精品体育",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "精品体育",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8"
+  },
+  {
+    "name": "精品纪录",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "精品纪录",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8"
+  },
+  {
+    "name": "家庭剧场",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "家庭剧场",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8"
+  },
+  {
+    "name": "精品大剧",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "精品大剧",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000100/index.m3u8"
+  },
+  {
+    "name": "军事评论",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "军事评论",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8"
+  },
+  {
+    "name": "明星大片",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "明星大片",
+    "uris": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8"
+  },
+  {
+    "name": "欢乐剧场",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "欢乐剧场",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+  },
+  {
+    "name": "精品萌宠",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "精品萌宠",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+  },
+  {
+    "name": "超级综艺",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "超级综艺",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+  },
+  {
+    "name": "金牌综艺",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "金牌综艺",
+    "uris": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+  },
+  {
+    "name": "炫舞未来",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "炫舞未来",
+    "uris": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8"
+  },
+  {
+    "name": "武搏世界",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "武搏世界",
+    "uris": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8"
+  },
+  {
+    "name": "怡伴健康",
+    "group": "NEWTV",
+    "logo": "",
+    "title": "怡伴健康",
+    "uris": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8"
+  },
+  {
+    "name": "1983年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1983年春晚",
+    "uris": "http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8"
+  },
+  {
+    "name": "1984年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1984年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8"
+  },
+  {
+    "name": "1985年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1985年春晚",
+    "uris": "http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8"
+  },
+  {
+    "name": "1986年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1986年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8"
+  },
+  {
+    "name": "1987年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1987年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8"
+  },
+  {
+    "name": "1988年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1988年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8"
+  },
+  {
+    "name": "1989年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1989年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8"
+  },
+  {
+    "name": "1992年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1992年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8"
+  },
+  {
+    "name": "1993年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1993年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8"
+  },
+  {
+    "name": "1994年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1994年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8"
+  },
+  {
+    "name": "1995年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1995年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8"
+  },
+  {
+    "name": "1996年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1996年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8"
+  },
+  {
+    "name": "1997年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1997年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8"
+  },
+  {
+    "name": "1998年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1998年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8"
+  },
+  {
+    "name": "1999年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "1999年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8"
+  },
+  {
+    "name": "2000年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2000年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8"
+  },
+  {
+    "name": "2001年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2001年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8"
+  },
+  {
+    "name": "2002年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2002年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8"
+  },
+  {
+    "name": "2003年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2003年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8"
+  },
+  {
+    "name": "2004年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2004年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8"
+  },
+  {
+    "name": "2005年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2005年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8"
+  },
+  {
+    "name": "2006年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2006年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8"
+  },
+  {
+    "name": "2007年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2007年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8"
+  },
+  {
+    "name": "2008年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2008年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8"
+  },
+  {
+    "name": "2009年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2009年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8"
+  },
+  {
+    "name": "2010年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2010年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8"
+  },
+  {
+    "name": "2011年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2011年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8"
+  },
+  {
+    "name": "2012年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2012年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8"
+  },
+  {
+    "name": "2013年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2013年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8"
+  },
+  {
+    "name": "2014年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2014年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8"
+  },
+  {
+    "name": "2015年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2015年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8"
+  },
+  {
+    "name": "2016年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2016年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8"
+  },
+  {
+    "name": "2017年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2017年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8"
+  },
+  {
+    "name": "2018年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2018年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8"
+  },
+  {
+    "name": "2019年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2019年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8"
+  },
+  {
+    "name": "2020年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2020年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8"
+  },
+  {
+    "name": "2021年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2021年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8"
+  },
+  {
+    "name": "2022年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2022年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8"
+  },
+  {
+    "name": "2023年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2023年春晚",
+    "uris": "https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8"
+  },
+  {
+    "name": "2024年春晚",
+    "group": "历年春晚",
+    "logo": "",
+    "title": "2024年春晚",
+    "uris": "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8"
+  },
+  {
+    "name": "KBS 2",
+    "group": "国际频道",
+    "logo": "",
+    "title": "KBS 2",
+    "uris": "https://tv.iill.top/kbs/12&p=0"
+  },
+  {
+    "name": "TJB",
+    "group": "国际频道",
+    "logo": "",
+    "title": "TJB",
+    "uris": "http://1.245.74.5:1935/live/tv/.m3u8"
+  },
+  {
+    "name": "Arirang",
+    "group": "国际频道",
+    "logo": "",
+    "title": "Arirang",
+    "uris": "https://stream1.freetv.fun/a-li-lang-dian-shi-3.m3u8"
+  },
+  {
+    "name": "日本全天新闻",
+    "group": "国际频道",
+    "logo": "",
+    "title": "日本全天新闻",
+    "uris": "https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8"
+  },
+  {
+    "name": "KBS world",
+    "group": "国际频道",
+    "logo": "https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png",
+    "title": "KBS world",
+    "uris": "https://stream1.freetv.fun/kbs-world-14.m3u8"
+  },
+  
 ]
