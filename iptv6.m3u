@@ -77,8 +77,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/1.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011671/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="卫视",内蒙卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040022/1.m3u8
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" group-title="卫视",农林卫视
@@ -115,8 +113,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007275/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" group-title="卫视",安多卫视
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226405/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="卫视",龙江卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
@@ -131,40 +127,42 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" group-title="其他",中国教育4台
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",鳳凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",鳳凰資訊
-https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",鳳凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="港澳台",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",日本全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",龙华偶像台
-https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",龍華經典台
-https://stream1.freetv.fun/long-hua-jing-dian-1.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",Popc
-https://stream1.freetv.fun/popc-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",KIX
-https://stream1.freetv.fun/kix-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",viuTV
-https://stream1.freetv.fun/viutv-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",MyTV Super
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",龙华偶像台
+https://cdi.ofiii.com/ocean/video/playlist/9uw6YcGlp7E/litv-longturn12-avc1_5936000=5-mp4a_128000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",龙华经典
+https://cdi.ofiii.com/ocean/video/playlist/Kkmi_Ug63s8/litv-longturn21-avc1_5936000=5-mp4a_140000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",龙华电影
+https://cdi.ofiii.com/ocean/video/playlist/-sIKlWIYHoM/litv-longturn03-avc1_336000=1-mp4a_125000=6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",MyTV Super
 https://stream1.freetv.fun/mytv-super-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",now爆谷台
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",now爆谷台
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台",HKS香港卫视
-https://stream1.freetv.fun/xiang-gang-wei-shi-6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",HKS香港卫视
+https://stream1.freetv.fun/xiang-gang-wei-shi-9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="港澳台AKTV",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",Popc
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",viuTV 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="少儿动画",卡酷少儿
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="少儿动画",金鹰卡通
@@ -367,7 +365,7 @@ https://tv.iill.top/kbs/12&p=0
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",Arirang
 https://stream1.freetv.fun/a-li-lang-dian-shi-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",日本全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",KBS world
 https://stream1.freetv.fun/kbs-world-14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
