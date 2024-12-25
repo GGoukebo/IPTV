@@ -35,8 +35,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg" group-title="央视频道",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV4K.png" group-title="央视频道",CCTV 4K
-http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" group-title="央视频道",中国教育1
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" group-title="央视频道",中国教育4
@@ -119,20 +117,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="卫视",内蒙古卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" group-title="其他",中国教育1台
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" group-title="其他",中国教育2台
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" group-title="其他",中国教育4台
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",龙华偶像台
-https://cdi.ofiii.com/ocean/video/playlist/9uw6YcGlp7E/litv-longturn12-avc1_5936000=5-mp4a_128000=2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/8r9ioxvNtR0/litv-longturn21-avc1_2936000=4-mp4a_140000=2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/cowkMkTf4VY/litv-longturn03-avc1_336000=1-mp4a_125000=6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",MyTV Super
-https://stream1.freetv.fun/mytv-super-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",now爆谷台
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",HKS香港卫视
@@ -149,6 +133,12 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="其他",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="其他", CHC动作电影
+http://1.192.250.104:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="其他", CHC家庭影院
+http://1.192.250.104:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="其他", CHC影迷电影
+http://1.192.250.104:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰資訊
@@ -173,40 +163,16 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",viuTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="少儿动画",卡酷少儿
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="少儿动画",金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="少儿动画",优漫卡通
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="少儿动画",哈哈炫动
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="少儿动画",嘉佳卡通
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",BesTV青春动漫
-http://wouu.net:9977/udp/239.93.0.146:5140
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="少儿动画",黑莓动画
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="少儿动画",黑莓电影
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="少儿动画",动漫秀场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",爱动漫
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" group-title="少儿动画",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",黑龙江少儿
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" group-title="少儿动画",海南少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",七龙珠
-http://diyp.zxxoo.work/huya/11601966
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",灌篮高手
-http://jiaojirentv.top/2020/yy.php?id=1382735626
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",哆啦A梦
-http://120.77.28.4:8648/huya.php?id=11601963
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="少儿动画",猫和老鼠
-http://120.77.28.4:8648/huya.php?id=11352879
+#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="儿童频道", 黑莓动画
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010002/main.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="儿童频道", 优漫卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
+http://[2409:8087:5e08:24::11]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="儿童频道", 嘉佳卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="" group-title="儿童频道", 金鹰卡通
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IHOT",iHOT爱院线
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IHOT",iHOT爱科幻
