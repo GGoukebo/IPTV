@@ -36,9 +36,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg" group-title="央视频道",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" group-title="央视频道",中国教育1
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" group-title="央视频道",中国教育2
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000071
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" group-title="央视频道",中国教育4
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000072
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113027191823_22.jpg" group-title="卫视",安徽卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000023002/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.pw/media/images/channel/2024/10/29/large/20241029101351559578_45.png" group-title="卫视",北京卫视
@@ -127,8 +129,6 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="其他",星光综合台
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="其他",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="其他",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="其他",环球电视台
