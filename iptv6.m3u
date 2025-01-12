@@ -125,6 +125,8 @@ http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122575
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="其他", 翡翠台(字幕版)
+https://iptv.vip-tptv.xyz/cao.php?id=feicui
 #EXTINF:-1 group-title="其他",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="其他",人间卫视
