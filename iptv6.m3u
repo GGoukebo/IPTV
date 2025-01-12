@@ -9,7 +9,7 @@ http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225713
 http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="央视频道",CCTV5
 http://[2409:8087:5c00:10:5::95]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5 plus
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5（plus）
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="央视频道",CCTV6
 http://[2409:8087:5c00:10:5::119]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225715/index.m3u8
