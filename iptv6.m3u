@@ -345,8 +345,10 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",KBS 2
 https://tv.iill.top/kbs/12&p=0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",TJB
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",TJB SBS
 http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",CJB SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",KBS world
