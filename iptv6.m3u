@@ -15,9 +15,9 @@ https://tvpull.careryun.com/tv/cctv4m.m3u8
 http://[2409:8087:5c00:10:5::95]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+咪咕
 http://z.b.bkpcp.top/m.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+移动回看
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+源2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+移动回看
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+ FM
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+源3" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+FM
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="央视频道",CCTV6
 http://[2409:8087:5c00:10:5::119]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225715/index.m3u8
