@@ -121,6 +121,10 @@ http://[2409:8087:5c00:10:5::90]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225748
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="卫视",内蒙古卫视
 http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="其他", CHC动作电影
+https://www.freetv.top/migu/644368714.m3u8?migutoken=bfda3ac6d40934e53fdbea173c4229a83588e4ada701c1f940c7239609eb1737b82e7907fc63bbba251b0bf6a26d5afd1cf84b8f6f9b099bc7270b16781d481e12b706da548aa6cc28761e0e9b
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="其他", CHC家庭影院
+https://www.freetv.top/migu/644368373.m3u8?migutoken=6008499b8a1cf47a8555fff6bc43efa193806b2b463eadb0ca103b3a9660955b3fced400d0198eff97387a97b6d779fb26f9d71b82d2370c0a811af85039d1cfdaa0cc5ef171772b3c8db3321f
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",now爆谷台
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",HKS香港卫视
