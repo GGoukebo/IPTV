@@ -125,8 +125,8 @@ http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122575
 https://www.freetv.top/migu/644368714.m3u8?migutoken=bfda3ac6d40934e53fdbea173c4229a83588e4ada701c1f940c7239609eb1737b82e7907fc63bbba251b0bf6a26d5afd1cf84b8f6f9b099bc7270b16781d481e12b706da548aa6cc28761e0e9b
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="其他", CHC家庭影院
 https://www.freetv.top/migu/644368373.m3u8?migutoken=6008499b8a1cf47a8555fff6bc43efa193806b2b463eadb0ca103b3a9660955b3fced400d0198eff97387a97b6d779fb26f9d71b82d2370c0a811af85039d1cfdaa0cc5ef171772b3c8db3321f
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",now爆谷台
-http://205.185.123.236:8899/1/baogutai/baogu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",翡翠台
+https://stream1.freetv.fun/tvbfei-cui-3.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="其他",纬来精采
@@ -137,34 +137,6 @@ http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 group-title="其他",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="港澳台AKTV", 翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="港澳台AKTV",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="MytvSuper" tvg-logo="" group-title="港澳台AKTV",MytvSuper
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",Popc
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="港澳台AKTV",viuTV 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" group-title="NEWTV",NewTV 哒啵赛事「IPV6」
 http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225760/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" group-title="NEWTV",NewTV 黑莓动画「IPV6」
