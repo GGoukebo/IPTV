@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="央视频道",CCTV1
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png" group-title="央视频道",CCTV2
@@ -61,6 +61,14 @@ http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122576
 http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg" group-title="卫视",广西卫视
 http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-id="广西影视" tvg-name="广西影视" tvg-logo="http://tvyan.com/uploads/dianshi/gxyspd.jpg" group-title="卫视",广西影视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="http://tvyan.com/uploads/dianshi/gxxwpd.jpg" group-title="卫视",广西新闻
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8
+#EXTINF:-1 tvg-id="广西都市" tvg-name="广西都市" tvg-logo="http://tvyan.com/uploads/dianshi/gxdspd.jpg" group-title="卫视",广西都市
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8
+#EXTINF:-1 tvg-id="广西旅游" tvg-name="广西旅游" tvg-logo="http://tvyan.com/uploads/dianshi/gxzypd.jpg" group-title="卫视",广西旅游
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144236171971_20.jpg" group-title="卫视",贵州卫视
 http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225770/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.pw/media/images/channel/2021/09/13/large/20210913004059839717_73.png" group-title="卫视",海南卫视
