@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="央视频道",CCTV1
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1004]:80/wh7f454c46tw298505424_492718682/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png" group-title="央视频道",CCTV2
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw130269478_-604753332/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png" group-title="央视频道",CCTV3
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw721580231_1531221199/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="央视频道",CCTV4
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw752784954_-1218194521/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="央视频道",CCTV5
@@ -28,7 +28,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091755215949_32.png" group-title="央视频道",CCTV12
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="央视频道",CCTV13
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:100c]:80/wh7f454c46tw791898896_986350636/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png" group-title="央视频道",CCTV14
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png" group-title="央视频道",CCTV15
