@@ -127,18 +127,12 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="卫视",内蒙古卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",翡翠台
-https://stream1.freetv.fun/tvbfei-cui-3.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="其他",HKS香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="其他",纬来精采
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="其他",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="其他",星光综合台
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 group-title="其他",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="NOW 爆谷台" tvg-name="NOW 爆谷台" group-title="其他",NOW 爆谷台
+https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
+#EXTINF:-1 tvg-id="NOW 爆谷星影台" tvg-name="NOW 爆谷星影台" group-title="其他",NOW 爆谷星影台
+https://eventcdn02-nowe.akamaized.net/hls/CH138/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="其他",HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" group-title="NEWTV",NewTV 哒啵赛事「IPV6」
 http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225760/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" group-title="NEWTV",NewTV 黑莓动画「IPV6」
