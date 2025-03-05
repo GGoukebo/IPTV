@@ -10,15 +10,15 @@ http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw752784954_-1218194521/cdnr
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="央视频道",CCTV5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1018]:80/wh7f454c46tw1016229633_-1962909201/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1018]:80/wh7f454c46tw1050816782_602419044/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="央视频道",CCTV6
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1003]:80/wh7f454c46tw1070720107_-133237156/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091241522711_42.png" group-title="央视频道",CCTV7
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="央视频道",CCTV8
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8
+http://[2409:8087:5c21:d01:1:1:2:1015]:80/wh7f454c46tw1091128843_1772324219/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png" group-title="央视频道",CCTV9
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="央视频道",CCTV10
