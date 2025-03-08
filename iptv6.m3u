@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
+#EXTM3U x-tvg-url="https://epg.zbds.top/"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="央视频道",CCTV1
 http://[2409:8087:5c21:d01:1:1:2:1004]:80/wh7f454c46tw298505424_492718682/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png" group-title="央视频道",CCTV2
