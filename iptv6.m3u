@@ -55,23 +55,23 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8
 #EXTINF:-1 tvg-id="广西综艺" tvg-name="广西综艺" tvg-logo="http://tvyan.com/uploads/dianshi/gxzypd.jpg" group-title="广西频道",广西旅游
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8
-#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="" group-title="广西频道",贺州综合
+#EXTINF:-1 tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="http://tvyan.com/uploads/dianshi/hezhou.jpg" group-title="广西频道",贺州综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8
-#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="" group-title="广西频道",桂林新闻综合
+#EXTINF:-1 tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" tvg-logo="http://tvyan.com/uploads/dianshi/guilin.jpg" group-title="广西频道",桂林新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8
-#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="" group-title="广西频道",桂林科教旅游
+#EXTINF:-1 tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" tvg-logo="http://tvyan.com/uploads/dianshi/guilin.jpg" group-title="广西频道",桂林科教旅游
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8
-#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="" group-title="广西频道",桂林公共频道
+#EXTINF:-1 tvg-id="桂林公共频道" tvg-name="桂林公共频道" tvg-logo="http://tvyan.com/uploads/dianshi/guilin.jpg" group-title="广西频道",桂林公共频道
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8
 #EXTINF:-1 tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" tvg-logo="" group-title="广西频道",南宁文旅生活
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8
-#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="" group-title="广西频道",南宁影视娱乐
+#EXTINF:-1 tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" tvg-logo="http://tvyan.com/uploads/dianshi/nlysyl.jpg" group-title="广西频道",南宁影视娱乐
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8
-#EXTINF:-1,tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" group-title="广西频道",南宁新闻综合
+#EXTINF:-1,tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="http://tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="广西频道",南宁新闻综合
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8
-#EXTINF:-1,tvg-id="南宁公共" tvg-name="南宁公共" group-title="广西频道",南宁公共
+#EXTINF:-1,tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="http://tvyan.com/uploads/dianshi/nnggpd.jpg" group-title="广西频道",南宁公共
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8
-#EXTINF:-1,tvg-id="柳州科教" tvg-name="柳州科教" group-title="广西频道",柳州科教
+#EXTINF:-1,tvg-id="柳州科教" tvg-name="柳州科教" tvg-logo="http://tvyan.com/uploads/dianshi/lzskjpd.jpg" group-title="广西频道",柳州科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113027191823_22.jpg" group-title="卫视",安徽卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8
