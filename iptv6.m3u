@@ -38,11 +38,11 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg" group-title="央视频道",CCTV17
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="" group-title="央视频道",CCTV高尔夫网球
-http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225884/index.m3u8
+http://39.135.43.74:80/wh7f454c46tw3783796005_-96958973/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225884/index.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" group-title="央视频道",中国教育1
 http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225776/index.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" group-title="央视频道",中国教育2
-http://[2409:8087:5c00:10:5::155]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225881/index.m3u8
+http://39.135.43.75:80/wh7f454c46tw3867170749_113583771/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225881/index.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" group-title="央视频道",中国教育4
 http://[2409:8087:5c00:10:5::76]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg" group-title="广西频道",广西卫视
