@@ -291,7 +291,5 @@ http://mytv.dothome.co.kr/ch/public/3.php
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",KBS world
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
