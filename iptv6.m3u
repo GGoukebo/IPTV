@@ -116,7 +116,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531155536893321_81.jpg" group-title="卫视",辽宁卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153504056322_25.jpg" group-title="卫视",宁夏卫视
-http://[2409:8087:5c00:10:5::92]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225782/index.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225782/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153842547224_70.jpg" group-title="卫视",青海卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719112946432101_81.jpg" group-title="卫视",山东卫视
@@ -126,7 +126,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150903888489_91.jpg" group-title="卫视",陕西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112310613998_63.png" group-title="卫视",深圳卫视
-http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225725/index.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/28/large/20220528220452110808_30.jpg" group-title="卫视",四川卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123011224766299_56.jpg" group-title="卫视",天津卫视
