@@ -298,4 +298,4 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="国际频道",日本全天新聞
-https://n24-cdn-live-x.ntv.co.jp/ch01/index.m3u8?pta=83057590976f150db64b72357ca0834033ae5ea810a13ce43f329557638b70ac
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8?pta=fd7bec52cb1a5f0009d6768ab6da6e90
