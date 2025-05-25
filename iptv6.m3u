@@ -7,8 +7,6 @@ http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw130269478_-604753332/cdnrr
 http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw721580231_1531221199/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="央视频道",CCTV4
 http://[2409:8087:5c21:d01:1:1:2:1014]:80/wh7f454c46tw752784954_-1218194521/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
-http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="央视频道",CCTV5
 http://[2409:8087:5c21:d01:1:1:2:1018]:80/wh7f454c46tw1016229633_-1962909201/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="央视频道",CCTV5+
