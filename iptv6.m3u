@@ -76,7 +76,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.pw/media/images/channel/2024/10/29/large/20241029101351559578_45.png" group-title="卫视",北京卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161153317523_67.jpg" group-title="卫视",兵团卫视
-http://39.134.67.146:80/wh7f454c46tw1824144278_-1963628641/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="卫视",东方卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg" group-title="卫视",东南卫视
@@ -98,13 +98,13 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531145616881844_72.jpg" group-title="卫视",河北卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="卫视",河南卫视
-http://39.135.136.68:80/wh7f454c46tw2269965201_1437255056/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108220858481970_23.jpg" group-title="卫视",湖北卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111749846409_90.png" group-title="卫视",湖南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视 4M" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728163659540434_96.png" group-title="卫视",吉林卫视
-http://39.134.67.135:80/wh7f454c46tw3453019433_-1276810234/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="卫视",江苏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视 4M" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg" group-title="卫视",江西卫视
@@ -149,18 +149,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="卫视",内蒙古卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视4k" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="4k",深圳卫视4k
-https://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视4k" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="4k",重庆卫视4k
-https://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视4k" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="4k",广东卫视4k
-https://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4k" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="4k",北京卫视4k
-http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227514/index.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16 4k" tvg-logo="https://live.fanmingming.cn/tv/cctv16.png" group-title="4k",cctv16-4k
-http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://live.fanmingming.cn/tv/cctv4k.png" group-title="4k",cctv4k
-http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="港澳台频道",凤凰资讯
