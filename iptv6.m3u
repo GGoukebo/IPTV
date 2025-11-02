@@ -71,11 +71,11 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8
 #EXTINF:-1,tvg-id="柳州科教" tvg-name="柳州科教" tvg-logo="http://tvyan.com/uploads/dianshi/lzskjpd.jpg" group-title="广西频道",柳州科教
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="卫视",凤凰卫视
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="" group-title="卫视",凤凰卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="卫视",凤凰卫视香港台
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="" group-title="卫视",凤凰卫视香港台
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="凤凰卫视新闻台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="卫视",凤凰卫视新闻台
+#EXTINF:-1 tvg-name="凤凰卫视新闻台" tvg-logo="" group-title="卫视",凤凰卫视新闻台
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113027191823_22.jpg" group-title="卫视",安徽卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8
